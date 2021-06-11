@@ -1,0 +1,38 @@
+@media screen and (min-width: 600px)
+{
+	.metier
+	{
+		margin-top: 2vh;
+	}
+
+	nav ul
+	{
+		margin-top: 2vh;
+	}
+
+	.index
+	{
+		height: 18vh;
+	}
+
+	.jeux img,
+	.voyages img
+	{
+		margin-top: 2vh;
+	}
+
+	.design p
+	{
+		margin: 1vh 12vw;
+	}
+
+	.form_mail
+	{
+		height: 30vh;
+	}
+
+	.linkedin img:hover
+	{
+		top: 24.5vh;
+	}
+}
